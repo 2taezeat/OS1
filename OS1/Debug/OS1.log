@@ -1,2 +1,7 @@
-﻿  LINK : C:\Users\이태경\Desktop\git\OS1\Debug\OS1.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+﻿  1104-2016320131-이태경-1.c
+C:\Users\이태경\Desktop\git\OS1\OS1\1104-2016320131-이태경-1.c(79,33): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이태경\Desktop\git\OS1\OS1\1104-2016320131-이태경-1.c(81,33): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이태경\Desktop\git\OS1\OS1\1104-2016320131-이태경-1.c(83,33): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이태경\Desktop\git\OS1\OS1\1104-2016320131-이태경-1.c(85,33): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\이태경\Desktop\git\OS1\OS1\1104-2016320131-이태경-1.c(87,33): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   OS1.vcxproj -> C:\Users\이태경\Desktop\git\OS1\Debug\OS1.exe
