@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1104-2016320131-이태경-1.c">
+    <ClCompile Include="embedded_HW3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
